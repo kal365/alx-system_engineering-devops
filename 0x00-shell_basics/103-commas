@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -X -p -cm
+(ls -a1 | grep "^\." | sort | tr '\n' ',' ; echo '' ; ls -1 | grep -v "^\." | sort | tr '\n' ',')
