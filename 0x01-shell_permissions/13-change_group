@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod $(stat -c %a school) hello
+chgrp school hello
