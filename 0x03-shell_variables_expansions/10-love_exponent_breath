@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "$((BREATH ** PATH))\n"
+echo -e "$((BREATH ** LOVE))\n"
