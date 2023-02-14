@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((BREATH ** PATH))
+echo -e "$((BREATH ** PATH))\n"
